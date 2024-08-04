@@ -1,1 +1,8 @@
-# Bug-Bounty-Note-Taking-A-Comprehensive-Guide
+
+# Collaborative Note-Taking Guide & Tools for Bug Bounty Hunting
+
+
+
+Collaboration
+
+Requirements
