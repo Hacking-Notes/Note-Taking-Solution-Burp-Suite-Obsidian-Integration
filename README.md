@@ -16,7 +16,7 @@ Have you ever wondered what the best methodology for taking notes is, or do you 
 - Create a [Proton account](https://proton.me/support/set-up-proton-drive)
 - Install [Proton Drive](https://proton.me/drive/download)
 - Install & setup [PeerDraft](https://www.peerdraft.app/) plugin in obsidian
-- Purchase a subscription for the [Obsidian plugin](https://www.peerdraft.app/) ---> (~20$/YEAR) **NOT REQUIRED IF COLLABORATION IS NOT YOUR INTEREST**
+- Purchase a subscription for the [Obsidian plugin](https://www.peerdraft.app/) ---> (~20$/YEAR)
 
 ## Methodology
 
@@ -24,20 +24,21 @@ The methodology for using the Burp Suite extension involves importing the target
 
 | Root Domain (Target) | Domain / Subdomains | Paths | Endpoints|
 | -------------------- | ------------------- | ----- | -------- |
-
+| ![Obsidian_XLftp6KZih](https://github.com/user-attachments/assets/549f66af-9491-4e91-8d8c-7b96e560cb19) | ![Obsidian_XLftp6KZih (1)](https://github.com/user-attachments/assets/e7cba72e-0fa7-44be-8b7e-841925ef88b9) | ![Obsidian_XLftp6KZih (2)](https://github.com/user-attachments/assets/a08ab669-37da-4564-bd22-9298636af2c6) | 
+![Obsidian_XLftp6KZih (3)](https://github.com/user-attachments/assets/145873f3-e4e1-435e-97db-aff1cc811c53) |
 
 **Import your target's structure into Obsidian:**
 
-1. **Update your web topology**: Go to the Obsidian extension in BurpSuite, select your Obsidian Folder (Bug Bounty Shared) within Proton Drive, and click "Generate" with the appropriate protocol type. This action will create the website topology in Obsidian.
+1. **Update your web topology**: Go to the Obsidian extension in BurpSuite, select your Obsidian Folder (Bug Bounty Shared) within Proton Drive, and click "Generate" with the appropriate protocol type. This action will create the website topology in Obsidian. [View Example](https://github.com/user-attachments/assets/1e97c6c2-f034-4b17-9218-1fbfcc63f048)
 2. **Organize your notes**: At the root level of the domain, create two files:
    - **Daily Notes**: Use this file to track what has been done and to avoid duplicating efforts. It also informs collaborators about completed tasks.
    - **Main Notes**: This file should contain all significant observations or vulnerabilities found. Link these notes to the relevant pages and include only a brief description of the vulnerabilities or noteworthy elements discovered.
 
-PS: Note that once you discover additional paths in Burp, simply click "Generate" in the Burp extension to add the newly discovered paths.
+PS: Once you discover additional paths in Burp, click "Generate" in the Burp extension to add the newly discovered paths.
 
 ## Collaboration
 
-For using collaratively Obsidian, you need to determine two things. First does your collaborator need to create new files/contribute to the website mapping, or not. If the collaborator does not need/want to contribute to this aspect, then just share the peer draft link (Peerdraf documentation). If you want your collaborator to contribute, then you will need to provide the other collaborator with your proton drive account so he can push the URLs he found on his end and create files. At the moment, the only way a contributor can add a file is by manually dropping a file in the Proton-drive folder. Moving a document inside Obsidian and dragging it (for the collaborator who got invited) to the shared folder will not work. So the invited collaborator will need to manually open File Explorer and drag the new file inside the Proton drive folder
+For using collaratively Obsidian, you need to determine two things. First does your collaborator need to create new files/contribute to the website mapping, or not. If the collaborator does not need/want to contribute to this aspect, then just share the peer draft link (Peerdraf documentation). If you want your collaborator to contribute, then you will need to provide the other collaborator with your proton drive account so he can push the URLs he found on his end and create files. Currently, the only way a contributor can add a file is by manually dropping a file in the Proton-drive folder. Moving a document inside Obsidian and dragging it (for the collaborator who got invited) to the shared folder will not work. So the invited collaborator will need to manually open File Explorer and drag the new file inside the Proton drive folder
 
 ### Collaborator adding file
 
