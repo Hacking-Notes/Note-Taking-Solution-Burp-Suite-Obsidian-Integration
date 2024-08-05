@@ -22,10 +22,24 @@ Have you ever wondered what the best methodology for taking notes is, or do you 
 
 The methodology for using the Burp Suite extension involves importing the target's structure into your Obsidian file. The extension automatically adds all domains within the scope to Obsidian and updates them as necessary. In Obsidian, document all relevant information for each website path and link these findings to the main file, where you briefly describe each issue or noteworthy detail. This approach helps maintain organized notes and avoids the inefficiency of consolidating all information into a single file, making it easier to retrieve specific details later.
 
-| Root Domain (Target) | Domain / Subdomains | Paths | Endpoints|
-| -------------------- | ------------------- | ----- | -------- |
-| ![Obsidian_XLftp6KZih](https://github.com/user-attachments/assets/549f66af-9491-4e91-8d8c-7b96e560cb19) | ![Obsidian_XLftp6KZih (1)](https://github.com/user-attachments/assets/e7cba72e-0fa7-44be-8b7e-841925ef88b9) | ![Obsidian_XLftp6KZih (2)](https://github.com/user-attachments/assets/a08ab669-37da-4564-bd22-9298636af2c6) | 
-![Obsidian_XLftp6KZih (3)](https://github.com/user-attachments/assets/145873f3-e4e1-435e-97db-aff1cc811c53) |
+<br>
+
+<table>
+  <tr>
+    <th>Root Domain (Target)</th>
+    <th>Domain / Subdomains</th>
+    <th>Paths</th>
+    <th>Endpoints</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/549f66af-9491-4e91-8d8c-7b96e560cb19" alt="Root Domain (Target)"></td>
+    <td><img src="https://github.com/user-attachments/assets/e7cba72e-0fa7-44be-8b7e-841925ef88b9" alt="Domain / Subdomains"></td>
+    <td><img src="https://github.com/user-attachments/assets/a08ab669-37da-4564-bd22-9298636af2c6" alt="Paths"></td>
+    <td><img src="https://github.com/user-attachments/assets/145873f3-e4e1-435e-97db-aff1cc811c53" alt="Endpoints"></td>
+  </tr>
+</table>
+
+<br>
 
 **Import your target's structure into Obsidian:**
 
@@ -34,12 +48,68 @@ The methodology for using the Burp Suite extension involves importing the target
    - **Daily Notes**: Use this file to track what has been done and to avoid duplicating efforts. It also informs collaborators about completed tasks.
    - **Main Notes**: This file should contain all significant observations or vulnerabilities found. Link these notes to the relevant pages and include only a brief description of the vulnerabilities or noteworthy elements discovered.
 
-PS: Once you discover additional paths in Burp, click "Generate" in the Burp extension to add the newly discovered paths.
+<br>
+
+<table>
+  <tr>
+    <th>Main Notes</th>
+    <th>Daily Notes</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/4bcc2544-18f8-4cfb-887d-7d711e72b12e" alt="Root Domain (Target)"></td>
+    <td><img src="https://github.com/user-attachments/assets/18883a02-4a47-4976-a638-799713e0fcca" alt="Domain / Subdomains"></td>
+  </tr>
+</table>
+
+<br>
+
+This methodology enables efficient categorization, ensuring that all your notes and files are systematically organized. By using this approach, you can quickly and easily review your files and notes with just a single click, eliminating the need to search for hours. This structured method saves time and enhances your productivity by providing quick access to all relevant information whenever needed. Whether you are tracking vulnerabilities, documenting findings, or collaborating with others, this streamlined process ensures that everything is at your fingertips, making your work more efficient and effective.
+
+**PS: Once you discover additional paths in Burp, click "Generate" in the Burp extension to add the newly discovered paths.**
 
 ## Collaboration
 
-For using collaratively Obsidian, you need to determine two things. First does your collaborator need to create new files/contribute to the website mapping, or not. If the collaborator does not need/want to contribute to this aspect, then just share the peer draft link (Peerdraf documentation). If you want your collaborator to contribute, then you will need to provide the other collaborator with your proton drive account so he can push the URLs he found on his end and create files. Currently, the only way a contributor can add a file is by manually dropping a file in the Proton-drive folder. Moving a document inside Obsidian and dragging it (for the collaborator who got invited) to the shared folder will not work. So the invited collaborator will need to manually open File Explorer and drag the new file inside the Proton drive folder
+To use Obsidian collaboratively, you need to determine two key aspects. First, decide if your collaborator needs to create new files or contribute to the website mapping. If the collaborator does not need or want to contribute to this aspect, simply share the Peer Draft link (refer to [Peer Draft documentation](https://github.com/peerdraft/obsidian-plugin) for details).
 
-### Collaborator adding file
+If you want your collaborator to contribute, you must provide them access to your Proton Drive account. This allows them to push the URLs they find in Burp directly to Proton-drive updating while you file structure on our end. Collaborators can only add a file by manually placing it in the Proton Drive folder. Moving a document within Obsidian and dragging it to the shared folder (for the invited collaborator) will not work. Therefore, the invited collaborator must manually open File Explorer and drag the new file into the Proton Drive folder.
+
+<br>
+
+<table border="1">
+  <tr>
+    <th>File Owner</th>
+    <th>Invited Collaborator</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Share the Proton Drive account information.</li>
+        <li>Share the PeerDraft link with the collaborator.</li>
+        <li>Create files as needed.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Login to the Proton Drive account.</li>
+        <li>Use the PeerDraft link inside Obsidian (PeerDraft plugin is required).</li>
+        <li>Upload your Burp results (web topology) to the Proton Drive.</li>
+        <li>Wait a few minutes and continue working on the newly added files.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+This approach allows both collaborators to contribute to the website's topology. Each collaborator can add their findings, potentially discovering elements the other may have missed, thereby expanding the target's scope.
+
+---
+
+If you have any questions, suggestions, or issues regarding the roadmap or this repository, feel free to open an issue or reach out to me via Discord.
+
+  <a href="https://discord.com">
+  <img width="300" src="https://github.com/Hacking-Notes/Hacking-Notes/assets/118412415/5f34c47e-8f9e-40ef-885d-91ee9a6c5989" alt="gif">
+  </a>
+
 
 
