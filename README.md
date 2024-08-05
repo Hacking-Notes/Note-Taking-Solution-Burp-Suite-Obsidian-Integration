@@ -12,6 +12,8 @@ Have you ever wondered what the best methodology for taking notes is, or do you 
 - Download the Obsidian folder (which includes pre-installed plugins) and place it into your Proton Drive using File Explorer.
 - Add the [Obsidian Burp Suite extension](https://github.com/Hacking-Notes/collaborative-note-taking-guide-bug-bounty-tools/blob/main/Obsidan_BurpSuite.py) to your Burp extension
 
+![burp_obsidian](https://github.com/user-attachments/assets/923d093d-e41a-486b-8bfe-39bc335d0296)
+
 **Additional Steps for Collaboration**
 - Create a [Proton account](https://proton.me/support/set-up-proton-drive)
 - Install [Proton Drive](https://proton.me/drive/download)
