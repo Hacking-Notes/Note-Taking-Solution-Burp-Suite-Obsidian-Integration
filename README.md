@@ -16,7 +16,7 @@ Have you ever wondered what the best methodology for taking notes is, or do you 
 - Create a [Proton account](https://proton.me/support/set-up-proton-drive)
 - Install [Proton Drive](https://proton.me/drive/download)
 - Install & setup [PeerDraft](https://www.peerdraft.app/) plugin in obsidian
-- Purchase a subscription for the [Obsidian plugin](https://www.peerdraft.app/) ---> (~20$/YEAR)
+- Purchase a subscription for the [Obsidian plugin](https://www.peerdraft.app/) ---> (~20$/YEAR, Ask PeerDraft for Enterprise Plan)
 
 ## Methodology
 
