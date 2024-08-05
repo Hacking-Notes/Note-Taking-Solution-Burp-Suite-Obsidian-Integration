@@ -1,5 +1,5 @@
 
-# Collaborative Note-Taking Guide & Tools for Bug Bounty Hunting
+# Collaborative Note-Taking Guide & Tools for Bug Bounty Hunting (BETA)
 
 ![New Project (2)](https://github.com/user-attachments/assets/50310567-9135-4f51-9d9a-6258e88e0b3d)
 
