@@ -1,7 +1,7 @@
 
 # Collaborative Note-Taking Guide & Tools for Bug Bounty Hunting (BETA)
 
-![354929916-50310567-9135-4f51-9d9a-6258e88e0b3d (3)](https://github.com/user-attachments/assets/0c7bae54-a344-4f82-bf89-ad315f03d09d)
+![354929916-50310567-9135-4f51-9d9a-6258e88e0b3d (4)](https://github.com/user-attachments/assets/530dca62-d775-49cd-82ca-8c2cdb18038e)
 
 Have you ever wondered what the best methodology for taking notes is, or do you put all the information on a single page and spend ages trying to find the details later? I have a solution for you! I will share a set of standards and methodologies I've used in the past that have helped me generate multiple bounties. I'll also reveal the tool I've created, the structure I use for taking notes, and my process for collaborating on note-taking.
 
