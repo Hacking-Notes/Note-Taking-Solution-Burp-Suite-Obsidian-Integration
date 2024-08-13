@@ -26,7 +26,7 @@ The methodology for using the Burp Suite extension involves importing the target
 
 <br>
 
-<table>
+<table border="1">
   <tr>
     <th>Root Domain (Target)</th>
     <th>Domain / Subdomains</th>
@@ -52,7 +52,7 @@ The methodology for using the Burp Suite extension involves importing the target
 
 <br>
 
-<table>
+<table border="1">
   <tr>
     <th>Main Notes</th>
     <th>Daily Notes</th>
