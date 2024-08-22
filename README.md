@@ -18,7 +18,7 @@ Have you ever wondered what the best methodology for taking notes is, or do you 
 - Create a [Proton account](https://proton.me/support/set-up-proton-drive)
 - Install [Proton Drive](https://proton.me/drive/download)
 - Install & setup [PeerDraft](https://www.peerdraft.app/) plugin in obsidian
-- Purchase a subscription for the [Obsidian plugin](https://www.peerdraft.app/) ---> (~20$/YEAR, Ask PeerDraft for Enterprise Plan)
+- Purchase a Obsidian Sync Subscription [Obsidian Sync]([https://www.peerdraft.app/](https://obsidian.md/sync)) ---> (~50$/YEAR)
 
 ## Methodology
 
@@ -71,9 +71,9 @@ This methodology enables efficient categorization, ensuring that all your notes 
 
 ## Collaboration
 
-To use Obsidian collaboratively, you need to determine two key aspects. First, decide if your collaborator needs to create new files or contribute to the website mapping. If the collaborator does not need or want to contribute to this aspect, simply share the Peer Draft link (refer to [Peer Draft documentation](https://github.com/peerdraft/obsidian-plugin) for details).
+To use Obsidian collaboratively, you need to determine two key aspects. First, decide if your collaborator needs to create new files or contribute to the website mapping. If the collaborator does not need or want to contribute to this aspect, simply share the project with Obsidian Sync (refer to [Obsidian documentation](https://help.obsidian.md/Obsidian+Sync/Introduction+to+Obsidian+Sync) for details).
 
-If you want your collaborator to contribute, you must provide them access to your Proton Drive account. This allows them to push the URLs they find in Burp directly to Proton-drive updating while you file structure on our end. Collaborators can only add a file by manually placing it in the Proton Drive folder. Moving a document within Obsidian and dragging it to the shared folder (for the invited collaborator) will not work. Therefore, the invited collaborator must manually open File Explorer and drag the new file into the Proton Drive folder.
+TO UPDATE!!!!!!!!!!!!!!!!
 
 <br>
 
