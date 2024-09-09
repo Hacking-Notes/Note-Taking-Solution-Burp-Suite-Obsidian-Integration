@@ -1,8 +1,7 @@
 
 # A Streamlined Note-Taking Solution - Burp Suite Obsidian Integration 
 
-![357465247-530dca62-d775-49cd-82ca-8c2cdb18038e](https://github.com/user-attachments/assets/ff8134d7-58d8-4e34-9e8a-c4149cbcac46)
-
+![357465247-530dca62-d775-49cd-82ca-8c2cdb18038e (2)](https://github.com/user-attachments/assets/cb56d795-cc78-4d4b-b3d3-69c4f56844b5)
 
 Are you struggling to organize your security research notes effectively? Do you often dump all your information on a single page, only to waste time later searching for crucial details? I’ve got the perfect solution for you!
 
