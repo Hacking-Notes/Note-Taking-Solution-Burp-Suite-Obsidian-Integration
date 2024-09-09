@@ -26,7 +26,7 @@ With this tool, you'll spend less time searching for details and more time disco
 **Additional Steps for Collaboration**
 - Create a [Proton account](https://proton.me/support/set-up-proton-drive) (Or any other third-party cloud provider that offers storage services)
 - Install [Proton Drive](https://proton.me/drive/download)
-- Purchase a Obsidian Sync Subscription [Obsidian Sync]([https://www.peerdraft.app/](https://obsidian.md/sync)) ---> (~50$/YEAR)
+- Purchase a Obsidian Sync Subscription [Obsidian Sync](https://obsidian.md/sync) ---> (~50$/YEAR)
 
 ## Methodology
 
