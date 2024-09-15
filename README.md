@@ -24,9 +24,9 @@ With this tool, you'll spend less time searching for details and more time disco
 ![burp_obsidian](https://github.com/user-attachments/assets/923d093d-e41a-486b-8bfe-39bc335d0296)
 
 **Additional Steps for Collaboration**
-- Create a [Proton account](https://proton.me/support/set-up-proton-drive) (Or any other third-party cloud provider that offers storage services)
-- Install [Proton Drive](https://proton.me/drive/download)
-- Purchase a Obsidian Sync Subscription [Obsidian Sync](https://obsidian.md/sync) ---> (~50$/YEAR)
+- Create a [Proton account](https://proton.me/support/set-up-proton-drive) (Or any other third-party cloud provider ex: Dropbox, Google, ...)
+- Install application [Proton Drive](https://proton.me/drive/download)
+- Purchase an Obsidian Sync Subscription [Obsidian Sync](https://obsidian.md/sync) ---> (~50$/YEAR)
 
 ## Methodology
 
@@ -108,6 +108,8 @@ For seamless collaboration, you must purchase an [Obsidian Sync subscription ($5
     </td>
   </tr>
 </table>
+
+<i>Please note that in this configuration, we have chosen Proton Drive, but you can also select Dropbox, Google, or other options.</i>
 
 To invite your collaborator, go to Obsidian's settings, select "Sync," and then choose "Manage." From there, you can send an invitation to allow them to join and collaborate in your shared vault.
 
